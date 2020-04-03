@@ -1,0 +1,47 @@
+body{
+	font-family: 'Oxanium', cursive;
+	background-image:linear-gradient(to right, magenta, skyblue) ;
+}
+h1{
+	margin-bottom: 45px;
+	font-size: 2em;
+	text-align: center;
+	text-shadow: 1px 1px 20px red;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+
+}
+
+h2{
+
+
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	text-shadow: 5px 5px 10px red;
+	margin-bottom: 50px;
+
+}
+
+input{
+
+	padding:3px;
+	margin: 10px;
+}
+
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+
+	
+	
+}
+
+footer h1{
+	font-size: 20px;
+
+	margin-top: 300px;
+}
+.color1{
+	margin-left: auto;
+}
